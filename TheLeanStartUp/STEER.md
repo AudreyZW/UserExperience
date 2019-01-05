@@ -109,4 +109,4 @@ MVP design → remove any feature, process, or effect that does not contribute d
 ##Speed Bumps in Building a MVP
 common one: legal issues, fears about competitors, brand risks, and the impact on morale.
 
-##From the MVP to Innovation Accounting
+##From the MVP to Innovation Accounting 
