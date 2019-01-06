@@ -3,8 +3,8 @@
 - quantitative: how many people use it and find it valuable
 
 ###Build-Measure-Learn Feedback Loop
-	ideas - build → product - measure →  data - learn →
-	Minimize **Total** time through the loop  =  the essential of steering a startup
+ideas - build → product - measure →  data - learn →
+Minimize **Total** time through the loop  =  the essential of steering a startup
 
 
 ###Leap-of-Faith assumptions:
@@ -12,7 +12,7 @@ identify which hypotheses to test
 - based on value hypothesis and growth hypothesis
 
 Once clear on these leap-of-faith assumptions, the first step is to enter the Build phase as quickly as possible with a minimum viable product [MVP: the version of the product that enables a full turn of the Build-Measure-Learn loop with a minimum amount of effort and the least amount of development time. We must be able to measure its impact.]
-	e.g. it’s inadequate to build a prototype that is evaluated solely for internal quality by engineers and designers. We also need to get it in front of potential customers
+​	e.g. it’s inadequate to build a prototype that is evaluated solely for internal quality by engineers and designers. We also need to get it in front of potential customers
 
 ###Measure → Innovation Accounting
 whether efforts are bearing fruit
@@ -25,7 +25,7 @@ figure out what product we need to build to run that experiment and get that mea
 
 #LEAP
 Facebook case:
-	how Facebook was able to raise so much money when its actual usage was so small
+​	how Facebook was able to raise so much money when its actual usage was so small
 value hypothesis: more than half of users came back every day
 rate of growth: rate at which it had taken over its first few college campuses
 
@@ -63,7 +63,7 @@ The first step
 
 ##Design and the Customer Archetype
 The goal of early contact with customer:
-	to clarify at a basic, coarse level that we understand our potential customer and what problems they have.
+​	to clarify at a basic, coarse level that we understand our potential customer and what problems they have.
 
 This archetype is an essential guide for product development and ensures that the daily prioritization decisions that every product team must make are aligned with the customer to whom the company aims to appeal.
 Interaction design or design thinking 
@@ -110,3 +110,240 @@ MVP design → remove any feature, process, or effect that does not contribute d
 common one: legal issues, fears about competitors, brand risks, and the impact on morale.
 
 ##From the MVP to Innovation Accounting 
+
+
+
+
+
+# MEASURE
+
+A startup’s job is to:
+
+1. rigorously measure where it is right now, confronting the hard truths that assessment reveals
+2. devise experiments to learn how to move the real numbers closer to the ideal reflected in the business plan
+
+most milestones are build the same way: hit a certain product milestone, maybe talk to a few customers and see if the numbers go up. This is NOT a good indicator of whether the startup is making progress
+
+e.g. rate of growth depends on
+
+Manufacture:
+
+- profitability of each customer
+- cost of acquiring new customers
+- repeat purchase rate of existing customers
+
+Ebay:
+
+- sellers want the marketplace with the highest number of potential customers
+- buyers want the marketplace with the most competition among sellers
+- for this kind of startup → measure the network effects are working, as evidenced by the high retention rate of new buyers and sellers
+
+## How Innovation Accounting Works -- Three Learning Milestones
+
+1. use a MVP product to establish real data on where the company is right now.
+2. must attempt to tune the engine from the baseline towards the ideal
+3. pivot or persevere
+
+the sign of a successful pivot is that these engine-tuning activities are more productive after the pivo than before
+
+### Establish the Baseline
+
+Option 1:
+
+create a complete prototype of its product and offer to sell it to real customers through its main market channel
+
+Option 2:
+
+build a seperate MVP that aimed at getting feedback on one assumption at a time
+
+Before building the prototype, may perform a smoke test → preorder a product that has not yet been built, to measure:
+
+- whether customers are interested in trying a product
+
+Baseline data:
+
+- conversion rates
+- sign-up and trail rates
+- customer lifetime value
+- …
+
+Test the riskiest assumption first -- if you can’t find a way to mitigate these risks toward the ideal that is required for a sustainable business, there is no point in testing the others
+
+### Tuning the Engine
+
+Every product development, marketing, or other initiative that a startup undertakes should be targeted at improving one of the drivers of its growth model.
+
+e.g. improving the design of its product to make it easier for new customers to use
+
+This presupposes that the activation rate of new customers is a driver of growth and that its baseline is lower than the company would like. To demonstrate validated learning, the design changes must improve the activation rate of new customers, if not, the new design should be judged a failure
+
+A good design is one that changes customer behavior for the better.
+
+### Pivot or Persevere
+
+If we are not moving the drivers of our business model, we are not making progress. That becomes a sure sign that it’s time to pivot
+
+track the metrics more frequently, tightening the feedback loop with product development
+
+### Innovation Accounting at IMVU
+
+track the metrics more frequently, tightening the feedback loop with product development
+
+improving a product on five dollars a day
+
+### Cohort Analysis
+
+looks at the performance of each group of customers that comes into contact with the product independently, each group is called a cohort.
+
+once our efforts were aligned with what customers really wanted, our experiments were much more likely to change their behavior for the better
+
+### Optimization v.s. Learning
+
+measure progress against a high bar:
+
+​	evidence that a sustainable business can be built around its products or services
+
+e.g.
+
+had customers but didn’t know them well, getting feature requests constantly from customers; every new insight became an emergency to be addressed immediately; long-term projects were thus interrupted; no clear sense of whether any of the changes they were making mattered to customers
+
+→ success was driven by decisions the team had made in the past. none of its current initiatives were having any impact
+
+Energy invested in success theater (last-minute ad buys, channel stuffing, whiz-bang demos) is energy that could have been used to help build a sustainable business.
+
+### Vanity Metrics: A Word of Caution
+
+cannot tell anything about the efficacy of the entrepreneurial tema behind it
+
+### Actionable Metrics v.s. Vanity Metrics
+
+user story
+
+product backlog
+
+agile development: teams that employ it are able to change direction quickly, stay light on their feet, and be highly responsive to changes in the business requirements of the product owner
+
+### Cohorts and Split-tests
+
+also called A/B test
+
+### Kanban
+
+== capacity constraint
+
+User stories are not considered complete until they led to validated learning. Thus stories are categorised as:
+
+- in the product backlog
+- actively being built
+- feature complete
+- being validated (split tests, customer review and survey)
+
+only when a story has been validated can it be removed from the kanban board; if failed, the relevant feature is removed.
+
+| Backlog | In Progress | Built | Validated |
+| ------- | ----------- | ----- | --------- |
+|         |             |       |           |
+
+#### Hypothesis Testing
+
+### The Value of The Three A’s
+
+- Actionable
+
+For a report to be actionable, it must demonstrate clear cause and effect
+
+- Accessible
+
+Make a report as simple as possible so everyone understands them. (use tangible, concrete units)
+
+The report deals with people and their actions
+
+- Auditable
+
+​		Reliability
+
+​		The mechanisms that generate the reports are not too complex
+
+## PIVOT (OR PERSEVERE)
+
+- a special kind of change designed to test a new fundamental hypothesis about the product, business model, and engine of growth.
+
+stuck in the land of the living dead -- the company has achieved a modicum of success, just enough to stay alive but not living up to the expectations of its founders and investors.
+
+### A Category of Pivots
+
+Zoom-in Pivot
+
+- what previously had been considered a feature in a product becomes the whole product
+
+Zoom-out Pivot
+
+- what previously had been considered the whole product becomes a feature in a product 
+
+Customer Segment Pivot
+
+- the company realizes that the product it’s building solves a real problem for real customers but they are not the customers it originally planned to serve; the product hypothesis is confirmed only partially.
+- keeping the functionality of the product the same but changing the audience focus.
+
+Customer Need Pivot
+
+- the problem we are trying to solve for customers is not very important, and we discover other related problems that is important and can be solved by the team.
+
+Platform Pivot
+
+- change from an application to a platform, vice versa
+- instead of selling an application to one customer at a time, but a self-serve sales platform where anyone could become a customer with just a credit card
+
+Business Architect Pivot
+
+- Companies generally follow one of the two major business architectures:
+
+- - high margin, low volume (complex systems model, commonly B2B)
+  - low margin, high volume (volume operation model, commonly with consumer product)
+
+Channel Pivot
+
+- Sales/ Distribution Channel: the mechanism by which a company delivers its product to customers
+- the same basic solution could be delivered through different channel with greater effectiveness
+
+Value Capture Pivot
+
+- monetization / revenue model: a separate “feature” of a product that can be added or removed at will
+
+Engine of Growth Pivot
+
+- Three primary engines of growth:
+
+- - viral
+  - sticky
+  - paid growth models
+
+Technology Pivot
+
+- discovers a way to achieve the same solution by using a completely different technology
+- more common in established business
+
+### A Startup’s Runway is the Number of Pivot It Can Still Make
+
+### Pivots Require Courage
+
+### The Pivot or Persevere Meeting
+
+The telltale signs of the need to pivot:
+
+- decreasing effectiveness of product experiments
+- the general feeling that product development should be more productive
+
+The meeting requires both 
+
+- product development team:
+
+bring a completed report of the results of its product optimization efforts over time & comparison of how those results stack up against expectations
+
+- business leadership teams
+
+It’s common with pivots: not necessary to throw out everything that came before and start over, instead, it’s about repurposing what has been built and what has been learned to find a more positive direction
+
+Once you have found success with early adopters, you want to sell to mainstream customers. Mainstream customers have different requirements and are much more demanding.
+
+### A Pivot is a Strategic Hypothesis
